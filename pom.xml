@@ -3,4 +3,13 @@
   <groupId>gopdop</groupId>
   <artifactId>gopdop</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+      <dependency>
+          <groupId>org.telegram</groupId>
+          <artifactId>telegrambots</artifactId>
+          <version>6.9.0</version>
+      </dependency>
+  </dependencies>
+  
 </project>
