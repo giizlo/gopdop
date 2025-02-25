@@ -30,3 +30,4 @@ bin/
 
 ### Dev ###
 .properties
+/target/
